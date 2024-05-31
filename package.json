@@ -33,7 +33,7 @@
     "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
     "compress.js": "^1.1.2",
-    "date-fns": "^2.19.0",
+    "date-fns": "^2.30.0",
     "env-cmd": "^10.1.0",
     "lottie-react-web": "^2.2.2",
     "luxon": "^1.25.0",
