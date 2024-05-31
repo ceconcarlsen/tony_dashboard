@@ -29,7 +29,7 @@
     "@types/react-helmet": "^6.1.0",
     "@types/vanilla-masker": "^1.2.0",
     "animate.css": "^4.1.1",
-    "antd": "^4.8.2",
+    "antd": "^4.24.16",
     "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
     "compress.js": "^1.1.2",
