@@ -30,7 +30,7 @@
     "@types/vanilla-masker": "^1.2.0",
     "animate.css": "^4.1.1",
     "antd": "^4.8.2",
-    "axios": "^0.21.0",
+    "axios": "^1.7.8",
     "bootstrap": "^4.5.3",
     "compress.js": "^1.1.2",
     "date-fns": "^2.19.0",
